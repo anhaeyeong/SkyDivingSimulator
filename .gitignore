@@ -72,3 +72,41 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# 언리얼 엔진
+*.dll
+*.exe
+*.pdb
+*.suo
+*.user
+*.log
+*.app
+*.iuser
+*.ipch
+*.opensdf
+*.sdf
+*.vcxproj*
+*.xcodeproj
+*.idea/
+.vscode/
+
+# 빌드와 관련된 폴더
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
+/.vs
+
+# 기타
+*.swp
+*.tmp
+*.bak
+*.obj
+*.log
+*.dat
+*.ini
+*.sqlite3
+*.pyc
+*.class
+
